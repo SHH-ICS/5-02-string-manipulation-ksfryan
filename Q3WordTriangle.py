@@ -5,3 +5,4 @@
 # PYTH
 # PYTHO
 # PYTHON
+word = input("Enter a word: ")
