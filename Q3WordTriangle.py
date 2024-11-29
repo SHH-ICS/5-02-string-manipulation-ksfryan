@@ -5,4 +5,12 @@
 # PYTH
 # PYTHO
 # PYTHON
-word = input("Enter a word: ")
+
+
+n=input("input a word")
+x = 0
+y = len (n)
+
+while x <= y: 
+    print (n[0:x], " ")
+    x = x + 1
